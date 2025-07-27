@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "name": "Hassan Kamara",
+    "company": "Orange SL",
+    "phone": "22-33-444"
+},
+
+{
+    "id": 2,
+    "name": "Amadu Kamara",
+    "company": "Africel SL",
+    "phone": "333-444-555"
+},
+
+{
+    "id": 3,
+    "name": "Bai Kamara",
+    "company": "Qcell SL",
+    "phone": "222-333-888"
+},
+
+{
+    "id": 4,
+    "name": "Mustapha Kamara",
+    "company": "Sierratel SL",
+    "phone": "2112-666-777"
+}
+
+]
